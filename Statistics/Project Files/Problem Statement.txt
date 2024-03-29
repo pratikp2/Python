@@ -3,14 +3,10 @@ Please find below the details for the Project:
 
 Assignment Description - AS_Problem Statement.pdf
 
-Data - 
-
+Data :
 CompanyX_EU.csv 
-
 Basketball.csv
-
 Milestone - Milestone - Applied Statistics.pdf
-
 FAQ - FAQ's - Applied Statistics.pdf
 
 Please note the following:
@@ -20,12 +16,15 @@ Please note the following:
 
 3. Kindly submit it before the deadline to avoid penalties on scores.
 
-4. If any kind of plagiarism from any source is found in the project, it will not be evaluated and zero (0) score will be given. 
+4. If any kind of plagiarism from any source is found in the project, it will not be evaluated and zero (0) score will 
+be given. 
 
-5. If the code snippets in the submitted notebook are correct but not executed, 50% of the marks will be deducted for the corresponding question.
-6. This project is released on Friday and its deadline is the 16th day i.e. 3rd Sunday from its release date.
-Please note that week 1 videos and quiz of the next module Supervised Learning is released on Friday i.e. 7 days after the Applied Statistics project release. Hence, the Supervised Learning week 1 quiz deadline and the Applied Statistics project deadline will be on the same day.
+5. If the code snippets in the submitted notebook are correct but not executed, 50% of the marks will be deducted for 
+the corresponding question.
 
-Plan well to complete the assignments on time.
+6. This project is released on Friday and its deadline is the 16th day i.e. 3rd Sunday from its release date.Please note
+that week 1 videos and quiz of the next module Supervised Learning is released on Friday i.e. 7 days after the Applied
+Statistics project release. Hence, the Supervised Learning week 1 quiz deadline and the Applied Statistics project
+deadline will be on the same day.
 
-You may connect with the Program Manager if you have any confusion.
+7.Plan well to complete the assignments on time.You may connect with the Program Manager if you have any confusion.
